@@ -7,6 +7,7 @@ A Machine Learning web application that predicts house prices based on property 
 ## 🚀 Live Demo
 
 👉 **Try the application here:**  
+**https://house-pprice-prediction.streamlit.app/**
 ****
 
 ---
@@ -65,11 +66,11 @@ The project uses a custom housing dataset containing the following features:
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/Screenshot 2026-07-28 183414.png)
 
 ### Prediction Result
 
-![Prediction](screenshots/prediction.png)
+![Prediction](screenshots/Screenshot 2026-07-28 183451.png)
 
 ---
 
