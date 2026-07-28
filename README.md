@@ -66,11 +66,11 @@ The project uses a custom housing dataset containing the following features:
 
 ### Home Page
 
-![Home](screenshots/Screenshot 2026-07-28 183414.png)
+![Home](screenshots/home.png)
 
 ### Prediction Result
 
-![Prediction](screenshots/Screenshot 2026-07-28 183451.png)
+![Prediction](screenshots/prediction.png)
 
 ---
 
